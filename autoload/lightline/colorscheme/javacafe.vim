@@ -34,7 +34,7 @@ let s:p.inactive.left =  [ [ s:javacafe5, s:javacafe2 ], [ s:javacafe5, s:javaca
 let s:p.inactive.middle = [ [ s:javacafe5, s:javacafe0 ] ]
 let s:p.inactive.right = [ [ s:javacafe5, s:javacafe2 ], [ s:javacafe5, s:javacafe2 ] ]
 
-let s:p.insert.left = [ [ s:javacafe1, s:javacafe4 ], [ s:javacafe5, s:javacafe2 ] ]
+let s:p.insert.left = [ [ s:javacafe1, s:javacafe15 ], [ s:javacafe5, s:javacafe2 ] ]
 let s:p.replace.left = [ [ s:javacafe1, s:javacafe13 ], [ s:javacafe5, s:javacafe2 ] ]
 let s:p.visual.left = [ [ s:javacafe1, s:javacafe15 ], [ s:javacafe5, s:javacafe2 ] ]
 
