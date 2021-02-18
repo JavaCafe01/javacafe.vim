@@ -1,9 +1,9 @@
 " GUI color definitions
-let s:gui00        = "30333d"
-let g:base16_gui00 = "30333d"
+let s:gui00        = "1a2026"
+let g:base16_gui00 = "1a2026"
 
-let s:gui01        = "424757"
-let g:base16_gui01 = "424757"
+let s:gui01        = "29343D"
+let g:base16_gui01 = "29343D"
 
 let s:gui02        = "575D74"
 let g:base16_gui02 = "575D74"
@@ -98,7 +98,7 @@ endif
 
 " Neovim terminal colours
 if has("nvim")
-  let g:terminal_color_0 =  "#30333d"
+  let g:terminal_color_0 =  "#1a2026"
   let g:terminal_color_1 =  "#fca3ab"
   let g:terminal_color_2 =  "#a6d5b1"
   let g:terminal_color_3 =  "#fbebbb"
@@ -106,7 +106,7 @@ if has("nvim")
   let g:terminal_color_5 =  "#d8c2ee"
   let g:terminal_color_6 =  "#c8e6d7"
   let g:terminal_color_7 =  "#e7e7e7"
-  let g:terminal_color_8 =  "#424757"
+  let g:terminal_color_8 =  "#29343D"
   let g:terminal_color_9 =  "#fca3ab"
   let g:terminal_color_10 = "#a6d5b1"
   let g:terminal_color_11 = "#fbebbb"
@@ -122,7 +122,7 @@ if has("nvim")
   endif
 elseif has("terminal")
   let g:terminal_ansi_colors = [
-        \ "#30333d",
+        \ "#1a2026",
         \ "#fca3ab",
         \ "#a6d5b1",
         \ "#fbebbb",
@@ -130,7 +130,7 @@ elseif has("terminal")
         \ "#d8c2ee",
         \ "#c8e6d7",
         \ "#e7e7e7",
-        \ "#424757",
+        \ "#29343D",
         \ "#fca3ab",
         \ "#a6d5b1",
         \ "#fbebbb",
